@@ -1,0 +1,8 @@
+.card:hover {
+  transform: scale(1.3);
+  transition: transform 0.3s ease-in-out;
+}
+
+.dollar-color {
+  color: #008000;
+}
